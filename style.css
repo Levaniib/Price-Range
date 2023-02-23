@@ -1,0 +1,37 @@
+.filtereddivs{
+    background-color: rgb(123, 199, 199);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    gap: 20px;   
+    border-radius: 10px;
+}
+
+button{
+    margin-bottom: 10px;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(92, 86, 105);
+}
+
+.box{
+    display: flex;
+    width: 410px;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 10px;
+
+}
+
