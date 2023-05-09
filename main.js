@@ -36,7 +36,7 @@ filter.addEventListener("click", function () {
     price = filteredArray[1]
     
     filtereddivs.innerHTML = "Product Name: " + namee + " Price: " + price
-    
+    // marcxena xeli
   }
 });
 
